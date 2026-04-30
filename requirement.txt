@@ -1,8 +1,8 @@
 langgraph
 langchain-openai
-langchain-core
 pandas
 geopandas
 pydeck
-streamlit
+gradio
 python-dotenv
+pyogrio
